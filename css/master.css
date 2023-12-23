@@ -15,7 +15,10 @@
   -ms-transition: var(--trans);
   -o-transition: var(--trans);
 }
-
+a{
+  text-decoration: none;
+  color: white;
+}
 
 body{
   background-color: #222;
